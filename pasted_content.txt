@@ -1,0 +1,83 @@
+me ajude a criar um podcast com estas referencias DESCRIÇÃO
+Chegou a hora de pôr as ferramentas de IA a prova, vamos construir um podcast utilizando ferramentas de IA para isso, vamos utilizar o ChatGPT para criar um título atrativo e um roteiro magnético para o nosso podcast, vamos extrair o máximo de poder do Midjourney para gerar uma capa personalizada e ainda utilizar o ElevenLabs para gerar um conteúdo de voz mais humanizado.
+
+
+O ChatGPT disse:
+Memória salva atualizada
+Legal demais, Thiago! Vamos criar esse podcast passo a passo com as ferramentas de IA que você mencionou. Aqui vai um plano inicial com sugestões para cada etapa:
+
+🎙️ 1. Definição do Tema do Episódio
+Sugestão de tema:
+“Prompt Power: Como Usar IA com Precisão e Criatividade”
+(Tema relevante para quem está começando na programação e quer entender como aproveitar IA no dia a dia.)
+
+🧠 2. Roteiro Magnético com ChatGPT
+Aqui está um exemplo de estrutura de roteiro que podemos ajustar conforme seu público:
+
+Título: Prompt Power: Como Usar IA com Precisão e Criatividade
+Duração estimada: 5 a 10 minutos (ideal para iniciantes)
+
+Introdução (30s a 1min):
+
+Apresentação rápida
+
+O que o ouvinte vai aprender
+
+Frase de impacto: “Você está prestes a dominar a arte de conversar com a inteligência artificial!”
+
+Bloco 1 – Por que prompts são importantes? (2 min)
+
+O que é um prompt
+
+Impacto de prompts bem escritos
+
+Exemplos simples de prompts bons vs ruins
+
+Bloco 2 – Tipos de prompt e como usar (2-3 min)
+
+Instrução, pergunta, contexto e exemplos
+
+Situações reais de uso na programação
+
+Bloco 3 – Como melhorar seus prompts (2-3 min)
+
+Clareza, contexto, especificidade, objetividade
+
+Estratégias como dividir tarefas e definir formato da resposta
+
+Conclusão (1 min):
+
+Recapitulação rápida
+
+Dica final: “Pense como um diretor de cinema: você guia a IA com palavras.”
+
+Chamada para ação: “Curtiu? Compartilhe esse episódio e nos siga para mais dicas de IA no seu dia a dia!”
+
+🖼️ 3. Capa com Midjourney
+Você pode pedir ao Midjourney algo como:
+
+"Digital art of a glowing brain connected to a microphone, futuristic style, podcast cover, vibrant colors, high contrast, 1:1 aspect ratio."
+
+Caso queira ajuda para montar esse prompt mais ajustado pro seu tema e estilo, me avise!
+
+🔊 4. Voz com ElevenLabs
+Depois de ter o roteiro final:
+
+Copie cada parte como “script” para o ElevenLabs.
+
+Escolha uma voz natural (há vozes masculinas e femininas com diferentes estilos).
+
+Gere o áudio para cada bloco do roteiro.
+
+Junte tudo em um editor simples como o Audacity ou mesmo no Canva (se usar vídeo também).
+
+Quer que eu gere o roteiro completo já formatado e dividido por blocos para você colar direto no ElevenLabs?
+
+
+
+
+
+
+
+Você disse:
+poderia gerar o roteiro completo já formatado e dividido por blocos para você colar direto no ElevenLabs?
